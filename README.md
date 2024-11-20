@@ -37,8 +37,8 @@ I intend to pursue a career in **Cybersecurity**.
 
 ## 📈 Statistics From GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThIagoMedeiros21&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThIagoMedeiros21&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoMedeiros21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMedeiros21&layout=compact&theme=dracula)
 
 ---
 
