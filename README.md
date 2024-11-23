@@ -1,4 +1,4 @@
-# 👋 Hello, My name is Thiago!
+# 👋 Hi, My name is Thiago!
 
 🎓 Currently pursuing a degree in **Computer Science**.  
 💻 Passionate about Programming and Video Games.  
