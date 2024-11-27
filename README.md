@@ -9,10 +9,7 @@
 ## 🚀 About Me:  
 
 **"Swift as the wind, strong as a titan. Today's failure is tomorrow's success."**  
-This phrase resonates deeply with me. Even in the face of the battles we face, I believe we need to act with resilience to achieve success.  
-
-## My Journey  
-As a child, I got my first video game and started developing an interest in technology. In my second year of high school, I decided to pursue **Computer Science** at **CESAR School** and was accepted mid-year while still in my senior year. I completed a fast-track program and successfully enrolled in the place I always dreamed of.  
+This phrase resonates deeply with me. Even in the face of the battles we face, I believe we need to act with resilience to achieve success. As a child, I got my first video game and started developing an interest in technology. In my second year of high school, I decided to pursue **Computer Science** at **CESAR School** and was accepted mid-year while still in my senior year. I completed a fast-track program and successfully enrolled in the place I always dreamed of.  
 
 ## Achievements and Goals  
 - Completed the **Python Programming Fundamentals** course at college.  
