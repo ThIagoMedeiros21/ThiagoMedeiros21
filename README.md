@@ -14,7 +14,7 @@ This phrase resonates deeply with me. Even in the face of the battles we face, I
 ## Achievements and Goals  
 - Completed the **Python Programming Fundamentals** course at college.  
 - Earned the **CISCO Basic Python** certificate.
-- at the moment I am learning C  
+- At the moment I am learning C  
 - Next goals:  
   - "Develop a repository in C when I finish my studies(there is already a repository in C, but I am still studying, check it in the repositories tab)."  
   - Study a Framework in Python like Django.  
