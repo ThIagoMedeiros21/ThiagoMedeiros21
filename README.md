@@ -36,6 +36,7 @@ I intend to pursue a career in **Cybersecurity** or **QA**.
 ## 🛠️ Skills and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)    
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 ---
 
@@ -45,5 +46,3 @@ I intend to pursue a career in **Cybersecurity** or **QA**.
 - LinkedIn: [https://www.linkedin.com/in/medeirosthiagoo/](https://www.linkedin.com/in/medeirosthiagoo/)    
 
 ---
-
-**Thank you so Much🤝🏻**
